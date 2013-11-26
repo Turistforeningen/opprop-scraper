@@ -1,0 +1,22 @@
+{
+  "name": "opprop-scraper",
+  "version": "1.0.0",
+  "description": "Screen scraper for opprop.net",
+  "main": "opprop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Turistforeningen/opprop-scraper.git"
+  },
+  "author": "Hans Kristian Flaatten",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Turistforeningen/opprop-scraper/issues"
+  },
+  "homepage": "https://github.com/Turistforeningen/opprop-scraper",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}
